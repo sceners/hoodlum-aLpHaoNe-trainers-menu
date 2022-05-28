@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1427954568 source:c:\users\pc\desktop\hoodlum - gdi menu\hoodlum\main.cpp
+	"windows.h"
+	"math.h"
+	"logoundfont.cpp"
+
+1102165432 c:\users\pc\desktop\hoodlum - gdi menu\hoodlum\logoundfont.cpp
+
+1427954568 source:c:\nouveau dossier\hoodlum - gdi menu\hoodlum\main.cpp
+	"windows.h"
+	"math.h"
+	"logoundfont.cpp"
+
+1102165432 c:\nouveau dossier\hoodlum - gdi menu\hoodlum\logoundfont.cpp
+

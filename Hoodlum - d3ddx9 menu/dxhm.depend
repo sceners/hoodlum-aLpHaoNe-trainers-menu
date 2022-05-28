@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1489240588 source:c:\users\pc\desktop\hoodlum - trainer menu\main.cpp
+	"windows.h"
+	"d3d9.h"
+	"math.h"
+	"logoundfont.h"
+
+1274305017 c:\directxsdk\include\d3d9.h
+	<stdlib.h>
+	<objbase.h>
+	<windows.h>
+	"d3d9types.h"
+	"d3d9caps.h"
+
+1274305017 c:\directxsdk\include\d3d9types.h
+	<float.h>
+
+1274305017 c:\directxsdk\include\d3d9caps.h
+
+1113602242 c:\users\pc\desktop\hoodlum - trainer menu\logoundfont.h
+
+1489240588 source:c:\nouveau dossier\hoodlum - trainer menu\main.cpp
+	"windows.h"
+	"d3d9.h"
+	"math.h"
+	"logoundfont.h"
+
+1113602242 c:\nouveau dossier\hoodlum - trainer menu\logoundfont.h
+
